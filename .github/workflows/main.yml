@@ -3,7 +3,7 @@ name: python script
 
 on:
   schedule:
-    - cron: "*/49 * * * *"
+    - cron: "*/40 * * * *"
   workflow_dispatch:
 
 permissions:
